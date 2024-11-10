@@ -3,7 +3,7 @@ import QRCodeReact from 'qrcode.react';
 import { Download, Link, Github } from 'lucide-react';
 
 const QRCodeGenerator = () => {
-  const [url, setUrl] = useState('https://stackblitz.com');
+  const [url, setUrl] = useState('https://zawad.vercel.app');
   const [size, setSize] = useState(256);
   const [bgColor, setBgColor] = useState('#FFFFFF');
   const [fgColor, setFgColor] = useState('#000000');
@@ -103,7 +103,7 @@ const QRCodeGenerator = () => {
 
       <footer className="text-center text-gray-600">
         <a
-          href="https://github.com"
+          href="https://github.com/coderzawad/QR-CODE-GENERATOR"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800"
