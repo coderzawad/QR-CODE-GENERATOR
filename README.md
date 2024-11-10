@@ -28,7 +28,7 @@ A modern, responsive QR code generator built with React, TypeScript, and Tailwin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qr-code-generator.git
+git clone https://github.com/coderzawad/QR-CODE-GENERATOR.git
 ```
 
 2. Install dependencies:
@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourusername](https://twitter.com/AbdullahAl2348))
 
-Project Link: [https://github.com/yourusername/qr-code-generator](https://github.com/yourusername/qr-code-generator)
+Project Link: [https://github.com/yourusername/qr-code-generator](https://github.com/coderzawad/QR-CODE-GENERATOR)
