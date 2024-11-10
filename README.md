@@ -77,6 +77,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/AbdullahAl2348))
+Your Name - [@Abdullahalzawad](https://twitter.com/AbdullahAl2348)
 
-Project Link: [https://github.com/yourusername/qr-code-generator](https://github.com/coderzawad/QR-CODE-GENERATOR)
+Project Link: [https://github.com/coderzawad/qr-code-generator](https://github.com/coderzawad/QR-CODE-GENERATOR)
